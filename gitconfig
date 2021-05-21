@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = contacto.quantum.e@gmail.com
+	email = code ~/.zshrc
 	name = ricardovera
