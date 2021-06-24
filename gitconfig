@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Contacto.quantum.e@gmail.com
+	email = contacto.quantum.e@gmail.com
 	name = Ricardo Vera
